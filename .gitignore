@@ -96,6 +96,7 @@ bin/*.dll
 out/*
 tmp/*
 obj/
+bin/
 
 
 # AutoRest Nightly #
