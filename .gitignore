@@ -98,13 +98,6 @@ tmp/*
 obj/
 bin/
 
-# .NET Build artifacts
-*.dll
-*.pdb
-*.exe
-*.deps.json
-*.runtimeconfig.json
-
 
 # AutoRest Nightly #
 AutoRest.*
